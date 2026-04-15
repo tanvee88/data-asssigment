@@ -19,10 +19,14 @@ The goal of this project is to understand how economic development impacts the h
 - **Plotnine & GeoPandas:** For creating the visualizations (World Map, Bar Chart, Scatterplot, and Time-series).
 
 ## Files in this Repository
-- `report.qmd`: The Quarto markdown file containing the narrative and Python code.
+- `index.qmd`: The Quarto markdown file containing the narrative and Python code.
+- `index.html`: The rendered HTML report.
 - `unicef_indicator_1.csv`, `unicef_indicator_2.csv`, `unicef_metadata.csv`: The raw datasets provided by UNICEF.
 - `generate_charts.py`: A standalone Python script to generate the chart images.
 - `*.png`: The generated visualization images.
 
 ## Viewing the Report
-The final HTML report is published via GitHub Pages. You can view the live report by visiting the GitHub Pages link associated with this repository.
+The final HTML report is published via GitHub Pages. You can view the live report by clicking either of the links below:
+
+👉 **[Live Report (Main Link)](https://tanvee88.github.io/data-asssigment/)**  
+👉 **[Live Report (Direct HTML Link)](https://tanvee88.github.io/data-asssigment/index.html)**
