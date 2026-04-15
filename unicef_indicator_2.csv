@@ -1,0 +1,448 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Proportion of health care facilities with basic cleaning services,2016,84,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with basic cleaning services,2017,84,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with basic cleaning services,2018,84,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with basic cleaning services,2019,84,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with basic cleaning services,2020,84,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with basic cleaning services,2021,84,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with basic cleaning services,2022,84,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with basic cleaning services,2023,84,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with basic cleaning services,2015,5.430000000000001,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with basic cleaning services,2016,5.430000000000001,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with basic cleaning services,2017,5.430000000000001,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with basic cleaning services,2018,5.430000000000001,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with basic cleaning services,2019,5.430000000000001,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with basic cleaning services,2020,5.430000000000001,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with basic cleaning services,2021,5.430000000000001,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with basic cleaning services,2022,5.430000000000001,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with basic cleaning services,2023,5.430000000000001,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of health care facilities with basic cleaning services,2020,1.6556,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of health care facilities with basic cleaning services,2021,1.6556,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of health care facilities with basic cleaning services,2022,1.6556,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of health care facilities with basic cleaning services,2023,1.6556,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Proportion of health care facilities with basic cleaning services,2019,13,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Proportion of health care facilities with basic cleaning services,2020,13,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Proportion of health care facilities with basic cleaning services,2021,13,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Proportion of health care facilities with basic cleaning services,2022,13,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Proportion of health care facilities with basic cleaning services,2023,13,Total,,%,,,,Total
+Croatia,HR,HRV,191,Proportion of health care facilities with basic cleaning services,2018,71.42857142857143,Total,,%,,,,Total
+Croatia,HR,HRV,191,Proportion of health care facilities with basic cleaning services,2019,71.42857142857143,Total,,%,,,,Total
+Croatia,HR,HRV,191,Proportion of health care facilities with basic cleaning services,2020,71.42857142857143,Total,,%,,,,Total
+Croatia,HR,HRV,191,Proportion of health care facilities with basic cleaning services,2021,71.42857142857143,Total,,%,,,,Total
+Croatia,HR,HRV,191,Proportion of health care facilities with basic cleaning services,2022,71.42857142857143,Total,,%,,,,Total
+Croatia,HR,HRV,191,Proportion of health care facilities with basic cleaning services,2023,71.42857142857143,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with basic cleaning services,2017,38.75,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with basic cleaning services,2018,38.75,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with basic cleaning services,2019,38.75,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with basic cleaning services,2020,38.75,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with basic cleaning services,2021,38.75,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with basic cleaning services,2022,38.75,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with basic cleaning services,2023,38.75,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with basic cleaning services,2018,2.566285714285186,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with basic cleaning services,2019,4.1916,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with basic cleaning services,2020,4.1916,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with basic cleaning services,2021,4.1916,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with basic cleaning services,2022,4.1916,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with basic cleaning services,2023,4.1916,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with basic cleaning services,2013,42.5,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with basic cleaning services,2014,42.5,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with basic cleaning services,2015,42.5,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with basic cleaning services,2016,42.5,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with basic cleaning services,2017,42.5,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with basic cleaning services,2018,42.5,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with basic cleaning services,2019,42.5,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with basic cleaning services,2020,42.5,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with basic cleaning services,2021,42.5,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with basic cleaning services,2017,61.9946,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with basic cleaning services,2018,61.9946,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with basic cleaning services,2019,61.9946,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with basic cleaning services,2020,61.9946,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with basic cleaning services,2021,61.9946,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with basic cleaning services,2022,61.9946,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with basic cleaning services,2023,61.9946,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with basic cleaning services,2015,42.39691338117349,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with basic cleaning services,2016,42.39691338117349,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with basic cleaning services,2017,24.6137,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with basic cleaning services,2018,24.6137,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with basic cleaning services,2019,24.6137,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with basic cleaning services,2020,24.6137,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with basic cleaning services,2021,24.6137,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with basic cleaning services,2022,24.6137,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with basic cleaning services,2023,24.6137,Total,,%,,,,Total
+Jordan,JO,JOR,400,Proportion of health care facilities with basic cleaning services,2019,30.4519,Total,,%,,,,Total
+Jordan,JO,JOR,400,Proportion of health care facilities with basic cleaning services,2020,30.4519,Total,,%,,,,Total
+Jordan,JO,JOR,400,Proportion of health care facilities with basic cleaning services,2021,30.4519,Total,,%,,,,Total
+Jordan,JO,JOR,400,Proportion of health care facilities with basic cleaning services,2022,30.4519,Total,,%,,,,Total
+Jordan,JO,JOR,400,Proportion of health care facilities with basic cleaning services,2023,30.4519,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with basic cleaning services,2014,7.739100000000001,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with basic cleaning services,2015,7.739100000000001,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with basic cleaning services,2016,7.739100000000001,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with basic cleaning services,2017,7.739100000000001,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with basic cleaning services,2018,7.739100000000001,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with basic cleaning services,2019,7.739100000000001,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with basic cleaning services,2020,7.739100000000001,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with basic cleaning services,2021,7.739100000000001,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with basic cleaning services,2022,7.739100000000001,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2000,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2001,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2002,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2003,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2004,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2005,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2006,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2007,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2008,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2009,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2010,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2011,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2012,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2013,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2014,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2015,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2016,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2017,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2018,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2019,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2020,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2021,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2022,100,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with basic cleaning services,2023,100,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with basic cleaning services,2013,19.7802,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with basic cleaning services,2014,19.7802,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with basic cleaning services,2015,19.7802,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with basic cleaning services,2016,19.7802,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with basic cleaning services,2017,19.7802,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with basic cleaning services,2018,19.7802,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with basic cleaning services,2019,19.7802,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with basic cleaning services,2020,19.7802,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with basic cleaning services,2021,19.7802,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2000,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2001,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2002,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2003,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2004,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2005,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2006,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2007,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2008,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2009,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2010,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2011,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2012,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2013,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2014,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2015,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2016,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2017,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2018,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2019,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2020,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2021,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2022,100,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with basic cleaning services,2023,100,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with basic cleaning services,2014,17.6,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with basic cleaning services,2015,17.6,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with basic cleaning services,2016,17.6,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with basic cleaning services,2017,17.6,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with basic cleaning services,2018,17.6,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with basic cleaning services,2019,17.6,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with basic cleaning services,2020,17.6,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with basic cleaning services,2021,17.6,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with basic cleaning services,2022,17.6,Total,,%,,,,Total
+Mali,ML,MLI,466,Proportion of health care facilities with basic cleaning services,2018,61,Total,,%,,,,Total
+Mali,ML,MLI,466,Proportion of health care facilities with basic cleaning services,2019,61,Total,,%,,,,Total
+Mali,ML,MLI,466,Proportion of health care facilities with basic cleaning services,2020,61,Total,,%,,,,Total
+Mali,ML,MLI,466,Proportion of health care facilities with basic cleaning services,2021,61,Total,,%,,,,Total
+Mali,ML,MLI,466,Proportion of health care facilities with basic cleaning services,2022,61,Total,,%,,,,Total
+Mali,ML,MLI,466,Proportion of health care facilities with basic cleaning services,2023,61,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2000,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2001,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2002,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2003,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2004,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2005,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2006,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2007,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2008,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2009,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2010,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2011,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2012,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2013,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2014,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2015,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2016,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2017,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2018,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2019,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2020,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2021,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2022,100,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with basic cleaning services,2023,100,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with basic cleaning services,2017,36.3636,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with basic cleaning services,2018,36.3636,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with basic cleaning services,2019,36.3636,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with basic cleaning services,2020,36.3636,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with basic cleaning services,2021,36.3636,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with basic cleaning services,2022,36.3636,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with basic cleaning services,2023,36.3636,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of health care facilities with basic cleaning services,2019,49.2163,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of health care facilities with basic cleaning services,2020,49.2163,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of health care facilities with basic cleaning services,2021,49.2163,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of health care facilities with basic cleaning services,2022,49.2163,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of health care facilities with basic cleaning services,2023,49.2163,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of health care facilities with basic cleaning services,2018,9.391299999999999,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of health care facilities with basic cleaning services,2019,9.391299999999999,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of health care facilities with basic cleaning services,2020,9.391299999999999,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of health care facilities with basic cleaning services,2021,9.391299999999999,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of health care facilities with basic cleaning services,2022,9.391299999999999,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of health care facilities with basic cleaning services,2023,9.391299999999999,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with basic cleaning services,2017,3.6168,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with basic cleaning services,2018,3.6168,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with basic cleaning services,2019,3.6168,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with basic cleaning services,2020,3.6168,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with basic cleaning services,2021,3.6168,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with basic cleaning services,2022,3.6168,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with basic cleaning services,2023,3.6168,Total,,%,,,,Total
+Nicaragua,NI,NIC,558,Proportion of health care facilities with basic cleaning services,2017,26.9585,Total,,%,,,,Total
+Nicaragua,NI,NIC,558,Proportion of health care facilities with basic cleaning services,2018,26.9585,Total,,%,,,,Total
+Nicaragua,NI,NIC,558,Proportion of health care facilities with basic cleaning services,2019,26.9585,Total,,%,,,,Total
+Nicaragua,NI,NIC,558,Proportion of health care facilities with basic cleaning services,2020,26.9585,Total,,%,,,,Total
+Nicaragua,NI,NIC,558,Proportion of health care facilities with basic cleaning services,2021,26.9585,Total,,%,,,,Total
+Nicaragua,NI,NIC,558,Proportion of health care facilities with basic cleaning services,2022,26.9585,Total,,%,,,,Total
+Nicaragua,NI,NIC,558,Proportion of health care facilities with basic cleaning services,2023,26.9585,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with basic cleaning services,2013,4.761900000000001,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with basic cleaning services,2014,4.761900000000001,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with basic cleaning services,2015,4.761900000000001,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with basic cleaning services,2016,4.761900000000001,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with basic cleaning services,2017,4.761900000000001,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with basic cleaning services,2018,4.761900000000001,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with basic cleaning services,2019,4.761900000000001,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with basic cleaning services,2020,4.761900000000001,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with basic cleaning services,2021,4.761900000000001,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2000,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2001,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2002,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2003,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2004,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2005,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2006,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2007,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2008,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2009,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2010,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2011,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2012,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2013,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2014,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2015,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2016,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2017,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2018,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2019,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2020,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2021,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2022,100,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with basic cleaning services,2023,100,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with basic cleaning services,2017,89.7436,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with basic cleaning services,2018,89.7436,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with basic cleaning services,2019,89.7436,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with basic cleaning services,2020,89.7436,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with basic cleaning services,2021,89.7436,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with basic cleaning services,2022,89.7436,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with basic cleaning services,2023,89.7436,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with basic cleaning services,2017,34.4776,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with basic cleaning services,2018,34.4776,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with basic cleaning services,2019,34.4776,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with basic cleaning services,2020,34.4776,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with basic cleaning services,2021,34.4776,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with basic cleaning services,2022,34.4776,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with basic cleaning services,2023,34.4776,Total,,%,,,,Total
+Philippines,PH,PHL,608,Proportion of health care facilities with basic cleaning services,2019,83.209,Total,,%,,,,Total
+Philippines,PH,PHL,608,Proportion of health care facilities with basic cleaning services,2020,83.209,Total,,%,,,,Total
+Philippines,PH,PHL,608,Proportion of health care facilities with basic cleaning services,2021,83.209,Total,,%,,,,Total
+Philippines,PH,PHL,608,Proportion of health care facilities with basic cleaning services,2022,83.209,Total,,%,,,,Total
+Philippines,PH,PHL,608,Proportion of health care facilities with basic cleaning services,2023,83.209,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Proportion of health care facilities with basic cleaning services,2019,10.8319,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Proportion of health care facilities with basic cleaning services,2020,10.8319,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Proportion of health care facilities with basic cleaning services,2021,10.8319,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Proportion of health care facilities with basic cleaning services,2022,10.8319,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Proportion of health care facilities with basic cleaning services,2023,10.8319,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2000,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2001,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2002,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2003,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2004,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2005,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2006,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2007,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2008,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2009,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2010,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2011,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2012,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2013,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2014,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2015,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2016,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2017,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2018,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2019,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2020,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2021,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2022,100,Total,,%,,,,Total
+San Marino,SM,SMR,674,Proportion of health care facilities with basic cleaning services,2023,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2000,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2001,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2002,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2003,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2004,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2005,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2006,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2007,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2008,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2009,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2010,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2011,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2012,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2013,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2014,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2015,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2016,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2017,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2018,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2019,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2020,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2021,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2022,100,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with basic cleaning services,2023,100,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with basic cleaning services,2015,56.3,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with basic cleaning services,2016,56.3,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with basic cleaning services,2017,56.3,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with basic cleaning services,2018,56.3,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with basic cleaning services,2019,56.3,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with basic cleaning services,2020,56.3,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with basic cleaning services,2021,56.3,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with basic cleaning services,2022,56.3,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with basic cleaning services,2023,56.3,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2000,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2001,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2002,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2003,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2004,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2005,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2006,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2007,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2008,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2009,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2010,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2011,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2012,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2013,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2014,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2015,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2016,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2017,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2018,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2019,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2020,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2021,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2022,100,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with basic cleaning services,2023,100,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with basic cleaning services,2016,15.5303,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with basic cleaning services,2017,15.5303,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with basic cleaning services,2018,15.5303,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with basic cleaning services,2019,15.5303,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with basic cleaning services,2020,15.5303,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with basic cleaning services,2021,15.5303,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with basic cleaning services,2022,15.5303,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with basic cleaning services,2023,15.5303,Total,,%,,,,Total
+Somalia,SO,SOM,706,Proportion of health care facilities with basic cleaning services,2019,13.7441,Total,,%,,,,Total
+Somalia,SO,SOM,706,Proportion of health care facilities with basic cleaning services,2020,13.7441,Total,,%,,,,Total
+Somalia,SO,SOM,706,Proportion of health care facilities with basic cleaning services,2021,13.7441,Total,,%,,,,Total
+Somalia,SO,SOM,706,Proportion of health care facilities with basic cleaning services,2022,13.7441,Total,,%,,,,Total
+Somalia,SO,SOM,706,Proportion of health care facilities with basic cleaning services,2023,13.7441,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Proportion of health care facilities with basic cleaning services,2018,57.20930232558139,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Proportion of health care facilities with basic cleaning services,2019,57.20930232558139,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Proportion of health care facilities with basic cleaning services,2020,57.20930232558139,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Proportion of health care facilities with basic cleaning services,2021,57.20930232558139,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Proportion of health care facilities with basic cleaning services,2022,57.20930232558139,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Proportion of health care facilities with basic cleaning services,2023,57.20930232558139,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with basic cleaning services,2017,33.438,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with basic cleaning services,2018,33.438,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with basic cleaning services,2019,33.438,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with basic cleaning services,2020,33.438,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with basic cleaning services,2021,33.438,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with basic cleaning services,2022,33.438,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with basic cleaning services,2023,33.438,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with basic cleaning services,2017,1.4925,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with basic cleaning services,2018,1.4925,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with basic cleaning services,2019,1.4925,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with basic cleaning services,2020,1.4925,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with basic cleaning services,2021,1.4925,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with basic cleaning services,2022,1.4925,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with basic cleaning services,2023,1.4925,Total,,%,,,,Total
+Syrian Arab Republic,SY,SYR,760,Proportion of health care facilities with basic cleaning services,2018,6.620200000000001,Total,,%,,,,Total
+Syrian Arab Republic,SY,SYR,760,Proportion of health care facilities with basic cleaning services,2019,6.620200000000001,Total,,%,,,,Total
+Syrian Arab Republic,SY,SYR,760,Proportion of health care facilities with basic cleaning services,2020,6.620200000000001,Total,,%,,,,Total
+Syrian Arab Republic,SY,SYR,760,Proportion of health care facilities with basic cleaning services,2021,6.620200000000001,Total,,%,,,,Total
+Syrian Arab Republic,SY,SYR,760,Proportion of health care facilities with basic cleaning services,2022,6.620200000000001,Total,,%,,,,Total
+Syrian Arab Republic,SY,SYR,760,Proportion of health care facilities with basic cleaning services,2023,6.620200000000001,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with basic cleaning services,2017,17.14285714285714,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with basic cleaning services,2018,17.14285714285714,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with basic cleaning services,2019,17.14285714285714,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with basic cleaning services,2020,17.14285714285714,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with basic cleaning services,2021,17.14285714285714,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with basic cleaning services,2022,17.14285714285714,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with basic cleaning services,2023,17.14285714285714,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of health care facilities with basic cleaning services,2010,86.98357400722021,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of health care facilities with basic cleaning services,2011,86.98357400722021,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of health care facilities with basic cleaning services,2012,86.98357400722021,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of health care facilities with basic cleaning services,2013,86.98357400722021,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of health care facilities with basic cleaning services,2014,86.98357400722021,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of health care facilities with basic cleaning services,2015,86.98357400722021,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of health care facilities with basic cleaning services,2016,86.98357400722021,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of health care facilities with basic cleaning services,2017,86.98357400722021,Total,,%,,,,Total
+Thailand,TH,THA,764,Proportion of health care facilities with basic cleaning services,2018,86.98357400722021,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2010,43.64864000000011,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2011,43.64864000000011,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2012,43.64864000000011,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2013,43.64864000000011,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2014,43.64864000000011,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2015,43.10932000000003,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2016,42.57000000000016,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2017,25.5274,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2018,25.5274,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2019,25.5274,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2020,25.5274,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2021,25.5274,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2022,25.5274,Total,,%,,,,Total
+Tunisia,TN,TUN,788,Proportion of health care facilities with basic cleaning services,2023,25.5274,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with basic cleaning services,2017,28.3,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with basic cleaning services,2018,28.3,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with basic cleaning services,2019,28.3,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with basic cleaning services,2020,28.3,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with basic cleaning services,2021,28.3,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with basic cleaning services,2022,28.3,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with basic cleaning services,2023,28.3,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with basic cleaning services,2016,5.031400000000001,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with basic cleaning services,2017,5.031400000000001,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with basic cleaning services,2018,5.031400000000001,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with basic cleaning services,2019,5.031400000000001,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with basic cleaning services,2020,5.031400000000001,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with basic cleaning services,2021,5.031400000000001,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with basic cleaning services,2022,5.031400000000001,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with basic cleaning services,2023,5.031400000000001,Total,,%,,,,Total
+Yemen,YE,YEM,887,Proportion of health care facilities with basic cleaning services,2019,18,Total,,%,,,,Total
+Yemen,YE,YEM,887,Proportion of health care facilities with basic cleaning services,2020,18,Total,,%,,,,Total
+Yemen,YE,YEM,887,Proportion of health care facilities with basic cleaning services,2021,18,Total,,%,,,,Total
+Yemen,YE,YEM,887,Proportion of health care facilities with basic cleaning services,2022,18,Total,,%,,,,Total
+Yemen,YE,YEM,887,Proportion of health care facilities with basic cleaning services,2023,18,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with basic cleaning services,2016,8,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with basic cleaning services,2017,8,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with basic cleaning services,2018,8,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with basic cleaning services,2019,8,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with basic cleaning services,2020,8,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with basic cleaning services,2021,8,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with basic cleaning services,2022,8,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with basic cleaning services,2023,8,Total,,%,,,,Total
