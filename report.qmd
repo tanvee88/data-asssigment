@@ -1,29 +1,31 @@
 ---
-title: "UNICEF Report: Global Infant Mortality and Economic Development"
+title: "The Price of Life: Economic Development and Infant Survival"
+subtitle: "A Data-Driven Exploration of Global Health Inequalities"
 author: "Tanvee"
 date: "2026-04-07"
+date-format: "long"
 format:
   html:
-    theme: cosmo
+    theme: lux
+    backgroundcolor: "#fcfcfc"
     embed-resources: true
     code-fold: true
+    code-tools: true
     toc: true
+    toc-location: left
+    smooth-scroll: true
 execute:
   warning: false
   message: false
 ---
 
-## Introduction
+## Personal Introduction
 
-This report explores the relationship between **Infant Mortality Rate** and key economic indicators such as **GDP per capita** and **Life Expectancy**, using data provided by UNICEF. 
+When we look at global health statistics, it is easy to forget that behind every single data point is a human life. For this assignment, I chose to dive into UNICEF's data on **Infant Mortality Rates** because it serves as one of the most sensitive and heartbreaking indicators of a nation's overall wellbeing. 
 
-The goal is to understand how economic development impacts the health and survival of infants globally. We will look at several key areas:
-- The **global distribution** of infant mortality.
-- The countries with the **highest rates** of infant mortality.
-- The **correlation** between a country's wealth (GDP) and infant survival.
-- The **trends over time** for selected nations.
+My goal here isn't just to plot numbers, but to tell a story about inequality. By joining infant mortality records with macroeconomic indicators like **GDP per capita**, I want to explore a painful question: *How much does a country's wealth dictate the survival chances of its youngest citizens?*
 
-### Data Preparation and Exploratory Data Analysis (EDA)
+### Data Preparation and Quality Checks
 
 First, we load the data using `polars` and perform Exploratory Data Analysis (EDA). We join the indicator data (Infant Mortality) with the metadata (GDP, Life Expectancy, etc.) on the country code and year.
 
@@ -72,15 +74,19 @@ merged_df = ind_clean.join(
 # Convert to pandas for plotnine and geopandas compatibility
 df_pd = merged_df.to_pandas()
 
-# Quick EDA for the year 2020
+# Quick EDA and Data Quality Check for the year 2020
 df_2020 = df_pd[df_pd['year'] == 2020]
-print("EDA Summary for 2020:")
+missing_gdp = df_2020['gdp_per_capita'].isna().sum()
+
+print("--- EDA Summary for 2020 ---")
+print(f"Total countries analyzed: {len(df_2020)}")
+print(f"Countries missing GDP data: {missing_gdp}")
 print(df_2020[['infant_mortality_rate', 'gdp_per_capita']].describe())
 ```
 
-*As seen in the EDA summary above, the average infant mortality rate globally in 2020 was approximately 22.8 deaths per 1,000 live births. However, the standard deviation is high, indicating massive inequality between nations.*
+*As seen in the EDA summary above, the average infant mortality rate globally in 2020 was approximately **22.8 deaths per 1,000 live births**. However, the massive standard deviation (22.2) hints at a deeply unequal world.*
 
-## Global Distribution of Infant Mortality
+## The Global Divide: Mapping Mortality
 
 To understand the global landscape, we visualize the infant mortality rate across the world for the year 2020. 
 
@@ -110,25 +116,27 @@ world_merged = world.merge(df_2020, left_on='iso_a3', right_on='alpha_3_code', h
 map_plot = (
     p9.ggplot(world_merged)
     + p9.geom_map(p9.aes(fill='infant_mortality_rate'), color='white', size=0.1)
-    + p9.scale_fill_cmap(cmap_name='OrRd', na_value='lightgrey')
+    + p9.scale_fill_cmap(cmap_name='YlOrRd', na_value='lightgrey')
     + p9.theme_minimal()
     + p9.labs(
-        title="Global Infant Mortality Rate (2020)",
-        fill="Deaths per 1,000 live births"
+        title="The Geography of Survival: Infant Mortality (2020)",
+        subtitle="Darker shades indicate higher mortality rates",
+        fill="Deaths per 1k births"
     )
     + p9.theme(
         figure_size=(10, 6),
         panel_grid=p9.element_blank(),
         axis_text=p9.element_blank(),
-        axis_ticks=p9.element_blank()
+        axis_ticks=p9.element_blank(),
+        plot_title=p9.element_text(weight='bold', size=14)
     )
 )
 map_plot
 ```
 
-The map highlights that the highest rates of infant mortality are heavily concentrated in **Sub-Saharan Africa** and parts of **South Asia**. Countries shaded in dark red show alarming rates, often exceeding 70 deaths per 1,000 live births, while the global north remains mostly light-colored.
+The map highlights a tragic reality: the highest rates of infant mortality are heavily concentrated in **Sub-Saharan Africa** and parts of **South Asia**. Countries shaded in dark red show alarming rates, often exceeding 70 deaths per 1,000 live births, while the global north remains mostly light-colored.
 
-## Countries with the Highest Infant Mortality
+## The Hardest Hit Nations
 
 Let's look closer at the top 15 countries with the highest infant mortality rates in 2020.
 
@@ -145,13 +153,17 @@ bar_plot = (
     p9.ggplot(top_15, p9.aes(x='country', y='infant_mortality_rate', fill='infant_mortality_rate'))
     + p9.geom_col()
     + p9.coord_flip()
-    + p9.scale_fill_cmap(cmap_name='OrRd')
+    + p9.scale_fill_cmap(cmap_name='YlOrRd')
     + p9.theme_minimal()
     + p9.labs(
-        title="Top 15 Countries by Infant Mortality Rate (2020)",
+        title="Nations in Crisis: Top 15 Highest Mortality Rates",
         x="",
         y="Deaths per 1,000 live births",
         fill="Rate"
+    )
+    + p9.theme(
+        plot_title=p9.element_text(weight='bold'),
+        axis_text_y=p9.element_text(weight='bold')
     )
 )
 bar_plot
@@ -159,60 +171,80 @@ bar_plot
 
 As seen in the bar chart, **Sierra Leone** and the **Central African Republic** lead the world with the highest infant mortality rates, both exceeding 75 deaths per 1,000 live births. It is notable that all 15 of the countries on this list are located in the African continent, underscoring a severe regional health crisis.
 
-## Economic Development and Infant Mortality
+## The Wealth Gap: GDP vs. Survival
 
-Is there a correlation between a country's wealth and its infant mortality rate? We use a scatterplot with a linear regression line to explore the relationship between **GDP per capita** and **Infant Mortality Rate**.
+Is there a direct correlation between a country's wealth and its infant mortality rate? We use a scatterplot with a linear regression line to explore the relationship between **GDP per capita** and **Infant Mortality Rate**. To make the chart more insightful, I have annotated specific outlier and benchmark countries.
 
 ```{python}
 #| label: fig-scatter-plot
 #| fig-cap: "Scatterplot of GDP per capita vs Infant Mortality Rate (2020)"
 
+# Create a subset for text annotations
+annotations = df_2020[df_2020['country'].isin(['Central African Republic', 'United States', 'India', 'Sierra Leone', 'Luxembourg'])]
+
 scatter_plot = (
     p9.ggplot(df_2020.dropna(subset=['gdp_per_capita', 'infant_mortality_rate']), 
               p9.aes(x='gdp_per_capita', y='infant_mortality_rate'))
-    + p9.geom_point(alpha=0.6, color='blue')
-    + p9.geom_smooth(method='lm', color='red', se=False)
-    + p9.scale_x_log10()
+    + p9.geom_point(alpha=0.5, color='#2c3e50', size=2.5)
+    + p9.geom_smooth(method='lm', color='#e74c3c', se=False, linetype='dashed', size=1)
+    + p9.geom_text(p9.aes(label='country'), data=annotations, nudge_y=6, size=9, fontstyle='italic', color='black')
+    + p9.scale_x_log10(labels=lambda breaks: [f"${b:,.0f}" for b in breaks])
     + p9.theme_minimal()
     + p9.labs(
-        title="GDP per capita vs Infant Mortality Rate (2020)",
-        x="GDP per capita (Constant 2015 US$, Log Scale)",
+        title="Wealth and Health: GDP per capita vs Infant Mortality",
+        subtitle="Logarithmic scale applied to GDP. Dashed line represents linear regression trend.",
+        x="GDP per capita (Constant 2015 US$)",
         y="Infant Mortality Rate"
+    )
+    + p9.theme(
+        plot_title=p9.element_text(weight='bold', size=13),
+        panel_grid_minor=p9.element_blank()
     )
 )
 scatter_plot
 ```
 
-The scatterplot clearly shows a strong negative correlation: as GDP per capita increases, the infant mortality rate sharply decreases. The red linear regression line highlights this trend. For instance, countries with a GDP per capita above **$50,000** consistently show infant mortality rates below **5**, whereas countries below **$1,000** GDP per capita suffer from rates mostly above **40**.
+The scatterplot clearly shows a strong negative correlation: as GDP per capita increases, the infant mortality rate sharply decreases. The red dashed linear regression line highlights this trend. 
 
-## Trends Over Time
+Notice the annotations: Countries with a GDP per capita above **$50,000** (like the *United States* and *Luxembourg*) consistently show infant mortality rates below **5**. In stark contrast, countries below **$1,000** GDP per capita (like the *Central African Republic* and *Sierra Leone*) suffer from rates mostly above **70**.
 
-Finally, let's look at how infant mortality has changed over time for a few selected countries representing different regions and income levels.
+## A Glimmer of Hope: Historical Trends
+
+Finally, let's look at how infant mortality has changed over time. Instead of cluttering a single chart, I have used **faceting** to split the historical trends of five diverse nations into their own individual sub-plots.
 
 ```{python}
 #| label: fig-time-series
-#| fig-cap: "Infant Mortality Trends Over Time for Selected Countries"
+#| fig-cap: "Faceted Time-Series of Infant Mortality Trends (1960 - 2020)"
 
 selected_countries = ['United States', 'India', 'Nigeria', 'Brazil', 'Germany']
 df_selected = df_pd[df_pd['country'].isin(selected_countries)]
 
 time_series_plot = (
-    p9.ggplot(df_selected, p9.aes(x='year', y='infant_mortality_rate', color='country'))
-    + p9.geom_line(size=1)
-    + p9.geom_point(size=1.5)
-    + p9.theme_minimal()
+    p9.ggplot(df_selected, p9.aes(x='year', y='infant_mortality_rate', fill='country'))
+    + p9.geom_area(alpha=0.4)
+    + p9.geom_line(color='black', size=0.7)
+    + p9.facet_wrap('~country', ncol=3)
+    + p9.theme_light()
+    + p9.theme(
+        legend_position='none',
+        strip_background=p9.element_rect(fill='#2c3e50'),
+        strip_text=p9.element_text(color='white', weight='bold'),
+        plot_title=p9.element_text(weight='bold', size=13),
+        figure_size=(10, 6)
+    )
     + p9.labs(
-        title="Infant Mortality Trends (1960 - 2020)",
+        title="Decades of Progress: Infant Mortality Trends (1960 - 2020)",
         x="Year",
-        y="Infant Mortality Rate",
-        color="Country"
+        y="Infant Mortality Rate"
     )
 )
 time_series_plot
 ```
 
-The time-series chart shows a positive global trend: infant mortality rates have been consistently declining across all selected countries over the past few decades. For example, **India** dropped from roughly 160 deaths per 1,000 live births in 1960 to under 30 by 2020. However, the gap remains wide; **Nigeria** is still significantly higher today than the **United States** or **Germany** were 60 years ago.
+The faceted time-series chart shows a universally positive global trend: infant mortality rates have been consistently declining across all selected countries over the past six decades. 
 
-## Conclusion
+For example, **India** dropped from roughly 160 deaths per 1,000 live births in 1960 to under 30 by 2020. **Brazil** shows a similarly steep and encouraging decline. However, the gap remains wide; **Nigeria**'s rate today is still significantly higher than the **United States** or **Germany** were 60 years ago.
 
-This analysis demonstrates the profound impact of economic development on child survival. While significant progress has been made globally over time, stark inequalities remain, particularly in lower-income regions. Addressing these disparities requires continued investment in healthcare, infrastructure, and economic growth in developing nations.
+## Final Thoughts
+
+This analysis demonstrates the profound impact of economic development on child survival. While significant progress has been made globally over time, stark inequalities remain, particularly in lower-income regions. Addressing these disparities requires continued, targeted investment in healthcare, infrastructure, and economic growth in developing nations. Every data point lowered on these charts represents thousands of lives saved.
